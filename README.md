@@ -1,6 +1,7 @@
 # Giphy Screen‑Flow Widget (Unmanaged Package)
 
 This unmanaged package installs a Lightning Web Component that lets you drop a **Giphy Widget** into any Salesforce **Screen Flow**. At run‑time the widget fetches and displays a random GIF that matches a user‑supplied search term.
+![Screen Recording 2025-05-17 at 3 05 21 PM](https://github.com/user-attachments/assets/5efaf706-2fa8-475e-828d-0a2e9fe50d48)
 
 ---
 
