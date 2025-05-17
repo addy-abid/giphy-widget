@@ -11,7 +11,6 @@ This unmanaged package installs a Lightning Web Component that lets you drop a *
 | **Production / Developer** | [Install in Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tak0000008LnF) |
 | **Sandbox**                | [Install in Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tak0000008LnF)     |
 
-> ℹ️  This is an **unmanaged** package. You have full access to the source code and can modify it as you wish.
 
 ---
 
@@ -43,7 +42,3 @@ This unmanaged package installs a Lightning Web Component that lets you drop a *
 Because this is an unmanaged package, feel free to fork the repo and submit pull requests. For issues or questions, open a GitHub issue.
 
 ---
-
-## License
-
-MIT
