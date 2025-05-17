@@ -1,0 +1,10 @@
+<template>
+    <lightning-card>
+        <div if:true={gifUrl} style="display: flex; justify-content: center; align-items: center; height: 100%;">
+            <img src={gifUrl} alt="GIF" style="max-width: 100%; height: auto;" />
+        </div>
+        <div if:false={gifUrl}>
+            <lightning-spinner size="medium"></lightning-spinner>
+        </div>
+    </lightning-card>
+</template>
